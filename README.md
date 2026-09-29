@@ -69,5 +69,5 @@ in this repository are derivative artifacts. They are made available under the s
 CC BY-SA 4.0 terms to the extent required by that license.
 
 
-For more details, please go through [Presentation](PhishDetectAI%20presentation.pdf)
+For more details, please go through the presentation : [PhishDetectAI Presentation](PhishDetectAI%20presentation.pdf)
 
