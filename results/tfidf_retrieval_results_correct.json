@@ -1,0 +1,7 @@
+{
+    "evaluation_size": 1000,
+    "top_1_correct": 970,
+    "top_1_recall": 0.97,
+    "top_3_correct": 995,
+    "top_3_recall": 0.995
+}
