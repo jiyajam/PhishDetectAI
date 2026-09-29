@@ -37,6 +37,16 @@ The system is intended for users who want a quick and easy way to check whether 
 5. **Classification** — the model predicts legitimate vs. phishing, optionally using retrieved context (RAG)
 6. **Comparison** — RAG + fine-tuned vs. fine-tuned alone vs. TF-IDF baseline
 
+
+## Quick Start (Google Colab)
+
+1. Upload the `PhishDetectAI` folder to your Google Drive
+2. Open `notebooks/streamlit_ui.ipynb` in [Google Colab](https://colab.research.google.com)
+3. Runtime → Change runtime type → **T4 GPU**
+4. Runtime → **Run all**
+5. Scroll to the last cell — the Streamlit app appears inline
+
+
 ## Data Attribution
 
 This project uses the **Phishing Email Dataset**.
@@ -44,8 +54,9 @@ This project uses the **Phishing Email Dataset**.
 - **Title:** Phishing Email Dataset
 - **Author:** Naser Abdullah Alam and 1 collaborator
 - **Source:** https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
-- **License:** [FILL IN FROM KAGGLE PAGE — likely CC BY-SA 4.0]
+- **License:**  CC BY-SA 4.0
 - **Modifications:** Filtered phishing/spam emails, cleaned and normalized text, split into train/test sets, converted to JSONL format.
+
 
 **Required citation:**
 
