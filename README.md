@@ -68,3 +68,6 @@ Because the dataset is licensed under CC BY-SA 4.0, the model weights and vector
 in this repository are derivative artifacts. They are made available under the same
 CC BY-SA 4.0 terms to the extent required by that license.
 
+
+For more details, please go through [Presentation](PhishDetectAI%20presentation.pdf)
+
